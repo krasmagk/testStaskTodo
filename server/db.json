@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "a",
+      "password": "a",
+      "id": 0,
+      "todoList": [
+        {
+          "task": "Ваша_новая_задача"
+        }
+      ]
+    },
+    {
+      "email": "b",
+      "password": "b",
+      "id": 1,
+      "todoList": [
+        {
+          "task": "Ваша_новая_задача21"
+        }
+      ]
+    }
+
+  ]
+}
